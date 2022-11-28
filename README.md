@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Osku</h1>
-<h3 align="center">A passionate fullstack developer from Finland</h3>
+<h1 align="center">Hi 👋,Hi! My name is Osku.</h1>
+<h3 align="center"> I'm a software engineer from Finland</h3>
 <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" align="right" height="300" width="400" alt="coding" style="border-radius: 50px 20px;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oskku&label=Profile%20views&color=0e75b6&style=flat" alt="oskku" /> </p>
